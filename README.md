@@ -1,4 +1,4 @@
-# 🌤️ VibeWeather Dashboard
+# 🌤️ StyleWeather Dashboard
 
 A modern, sleek weather dashboard built with React, TypeScript, and Vite. Get real-time weather updates with a beautiful user interface! 
 
